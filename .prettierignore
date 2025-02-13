@@ -1,0 +1,6 @@
+node_modules
+next-env.d.ts
+.next
+public
+out
+storybook-static
