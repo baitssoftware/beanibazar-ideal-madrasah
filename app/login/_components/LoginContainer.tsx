@@ -95,18 +95,6 @@ export default function LoginPage() {
       {/* Right side - Login form */}
       <div className="w-full lg:w-1/2 flex items-center justify-center p-8 lg:p-16">
         <div className="w-full max-w-md space-y-8 bg-white p-10 rounded-xl shadow-lg">
-          {/* School logo */}
-          <div className="flex justify-center">
-            <Image
-              src="/logo/logo.jpg"
-              width={80}
-              height={80}
-              alt="School logo"
-              className="h-20 w-auto"
-              priority
-            />
-          </div>
-
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
             Log in to your account
           </h2>
